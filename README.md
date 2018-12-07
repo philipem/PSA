@@ -5,7 +5,7 @@ The files in this repository contains functions used for both the computer labs 
 
 ## Setup 
 
-Clone into this repository and install all packages using
+Clone into this repository and install all packages using:
 ```bash
 pip install > requirements.txt
 ```
